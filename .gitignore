@@ -1,0 +1,27 @@
+# Ambientes Virtuais (Crucial para o seu caso)
+.venv/
+venv/
+env/
+
+# Configurações do PyCharm / JetBrains
+.idea/
+
+# Arquivos compilados e de cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos de sistema (Windows/macOS)
+Thumbs.db
+.DS_Store
+
+# Default ignored files
+/shelf/
+/workspace.xml
+# Ignored default folder with query files
+/queries/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
