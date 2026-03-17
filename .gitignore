@@ -5,6 +5,7 @@ env/
 
 # Configurações do PyCharm / JetBrains
 .idea/
+.idea
 
 # Arquivos compilados e de cache do Python
 __pycache__/
